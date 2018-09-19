@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gloomaps scheme="1.0">
+  <link>https://www.gloomaps.com/X2PCdWrfzZ</link>
+  <pubdate>06/19/2018</pubdate>
+  <section>
+    <box>
+      <text>HOME </text>
+      <propa>#db2c2c</propa>
+      <member>
+        <box>
+          <text>Services </text>
+          <propa>#7468a3</propa>
+          <member>
+            <box>
+              <text>Gallery</text>
+              <propa>#f3ff0a</propa>
+              <member/>
+            </box>
+            <box>
+              <text>Our Location </text>
+              <propa>#f3ff0a</propa>
+              <member/>
+            </box>
+            <box>
+              <text>Full Menu</text>
+              <propa>#f3ff0a</propa>
+              <member/>
+            </box>
+          </member>
+        </box>
+        <box>
+          <text>Menu</text>
+          <propa>#7468a3</propa>
+          <member>
+            <box>
+              <text>Pizza Menu with Prices </text>
+              <propa>#f3ff0a</propa>
+              <member/>
+            </box>
+          </member>
+        </box>
+        <box>
+          <text>Gallery </text>
+          <propa>#7468a3</propa>
+          <member>
+            <box>
+              <text>Photo collage </text>
+              <propa>#f3ff0a</propa>
+              <member/>
+            </box>
+          </member>
+        </box>
+        <box>
+          <text>Contact Us</text>
+          <propa>#7468a3</propa>
+          <member>
+            <box>
+              <text>Google Map Locator </text>
+              <propa>#f3ff0a</propa>
+              <member/>
+            </box>
+            <box>
+              <text>Enquiry Form</text>
+              <propa>#f3ff0a</propa>
+              <member/>
+            </box>
+            <box>
+              <text>Contact Details</text>
+              <propa>#f3ff0a</propa>
+              <member/>
+            </box>
+          </member>
+        </box>
+      </member>
+    </box>
+  </section>
+</gloomaps>
